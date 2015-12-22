@@ -1,3 +1,4 @@
+//this class was pre-written by the UMD CS Department
 package student_classes;
 import java.io.BufferedReader;
 import java.io.IOException;
