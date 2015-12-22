@@ -1,4 +1,4 @@
-//Written by the UMD CS Dep
+//this class was pre-written by the UMD CS Department
 
 package student_classes;
 import javax.swing.*;
@@ -100,4 +100,3 @@ public class SlideShowGUI extends JPanel{
 		}
 	}
 }
-
