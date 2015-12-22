@@ -1,2 +1,2 @@
-# CMSC132-Projects
-The following files are projects from Fall 2015
+# Web-Spider-Project
+The following files are the Web Spider from CMSC132 of Fall 2015
