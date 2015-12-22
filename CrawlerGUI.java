@@ -1,4 +1,4 @@
-//this class was pre-written by the UMD CS Department
+//The following class was pre-written by the UMD CS Department
 package student_classes;
 import javax.swing.*;
 
